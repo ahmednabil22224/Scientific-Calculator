@@ -7,7 +7,7 @@ It works seamlessly on both desktop and mobile devices.
 
 ## 🌐 Live Demo
 
-👉 [View Demo on GitHub Pages](https://ahmednabil22224.github.io/scientific-calculator/)
+👉 [View Demo on GitHub Pages](https://ahmednabil22224.github.io/Scientific-Calculator/)
 
 ---
 
